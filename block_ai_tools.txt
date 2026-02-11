@@ -21,3 +21,11 @@ pi.ai
 meta.ai
 zapier.com
 notion.so
+notion.com
+deep-seek.com
+deepseek.com
+qwen.ai
+moonshot.ai
+kimi.com
+llama.online
+llama.com
